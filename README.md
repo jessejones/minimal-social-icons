@@ -3,7 +3,7 @@ minimal-social-icons
 
 Author          ::  Jesse Jones  
 Version         ::  v0.1  
-Date Modified   ::  23 April 2013  
+Modified   ::  23 April 2013  
 
 
 ##### Description     ::
