@@ -1,10 +1,8 @@
 minimal-social-icons
 ====================
 
-##### Author          ::  Jesse Jones  
-
+Author          ::  Jesse Jones  
 Version         ::  v0.1  
-
 Date Modified   ::  23 April 2013  
 
 
