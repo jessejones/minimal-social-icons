@@ -1,9 +1,9 @@
 minimal-social-icons
 ====================
 
-##### Author          ::  Jesse Jones
-##### Version         ::  v0.1
-##### Date Modified   ::  23 April 2013
+##### Author          ::  Jesse Jones space space
+Version         ::  v0.1 space space
+Date Modified   ::  23 April 2013
 
 ##### Description     ::
 A set of SVG minimal social and tech company icons. SVG is an ideal format for creating resolution independent icons. Instead of needing multiple icon sizes, one can be used and the size can be changed in either a vector-based program or programmatically (CSS, JS, etc). The colors are kept minimal so it scales well at both small and large sizes without distortion and banding that comes with scaling vector based gradients. No gradients were harmed in the making of these icons
