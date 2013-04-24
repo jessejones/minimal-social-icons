@@ -1,5 +1,5 @@
 minimal-social-icons
-========================================
+====================
 
 Author          ::  Jesse Jones
 Version         ::  v0.1
