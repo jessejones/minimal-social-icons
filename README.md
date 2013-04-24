@@ -1,19 +1,19 @@
 minimal-social-icons
 ====================
 
-Author          ::  Jesse Jones
-Version         ::  v0.1
-Date Modified   ::  23 April 2013
+##### Author          ::  Jesse Jones
+##### Version         ::  v0.1
+##### Date Modified   ::  23 April 2013
 
-Description     ::
+##### Description     ::
 A set of SVG minimal social and tech company icons. SVG is an ideal format for creating resolution independent icons. Instead of needing multiple icon sizes, one can be used and the size can be changed in either a vector-based program or programmatically (CSS, JS, etc). The colors are kept minimal so it scales well at both small and large sizes without distortion and banding that comes with scaling vector based gradients. No gradients were harmed in the making of these icons
 
 ====================
-Licensing       ::
+##### Licensing       ::
 The icons are free to use and modify as you wish under the MIT License.
 All logos and branding icons are under the copyright of their respected owners and associated companies
 
-The MIT License (MIT)[OSI Approved License]
+##### The MIT License (MIT)[OSI Approved License]
 
 Copyright ©2013 Jesse Jones
 
