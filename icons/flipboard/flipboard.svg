@@ -3,11 +3,12 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="48px" height="48px" viewBox="0 0 48 48" enable-background="new 0 0 48 48" xml:space="preserve">
-<rect x="-0.476" y="-0.251" fill="#BA181D" width="48.478" height="48.478"/>
+<rect x="-0.357" y="-0.245" fill="#BA181D" width="48.478" height="48.478"/>
 <g>
-	<polygon opacity="0.85" fill="#FFFFFF" points="28.659,9.3 18.867,9.3 18.867,19.092 28.659,19.092 38.45,19.092 38.45,9.3 	"/>
-	<rect x="18.867" y="19.092" opacity="0.75" fill="#FFFFFF" width="9.792" height="9.792"/>
-	<polygon fill="#FFFFFF" points="9.075,9.3 9.075,19.092 9.075,28.884 9.075,38.675 18.867,38.675 18.867,28.884 18.867,19.092 
-		18.867,9.3 	"/>
+	<polygon opacity="0.85" fill="#FFFFFF" enable-background="new    " points="29.299,9.161 19.297,9.161 19.297,19.161 
+		29.299,19.161 39.298,19.161 39.298,9.161 	"/>
+	<rect x="19.297" y="19.161" opacity="0.75" fill="#FFFFFF" enable-background="new    " width="10" height="10"/>
+	<polygon fill="#FFFFFF" points="9.297,9.161 9.297,19.161 9.297,29.161 9.297,39.161 19.297,39.161 19.297,29.161 19.297,19.161 
+		19.297,9.161 	"/>
 </g>
 </svg>
