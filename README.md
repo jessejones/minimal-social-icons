@@ -2,12 +2,24 @@ minimal-social-icons
 ====================
 
 Author  :  Jesse Jones  
-Version :  v0.3  
-Modified:  29 April 2013  
+Version :  v0.4  
+Modified:  10 May 2013  
 
 
 ##### Description    
 A set of SVG minimal social and tech company icons. SVG is an ideal format for creating resolution independent icons. Instead of needing multiple icon sizes, one can be used and the size can be changed in either a vector-based program or programmatically (CSS, JS, etc). The colors are kept minimal so it scales well at both small and large sizes without distortion and banding that comes with scaling vector based gradients. No gradients were harmed in the making of these icons
+
+##### Fallback Support SVG
+
+A script is included for browsers that do not support SVG *cough* IE 6-8 *cough*. It replaces the SVG graphics with PNG Img  versions of the files. Requires jQuery and Modernizr to use. 
+    <script>
+	if(!Modernizr.svg) {
+	    $('img[src*="svg"]').attr('src', function() {
+	        return $(this).attr('src').replace('.svg', '.png');
+	    });
+	}
+    </script> 
+
 
 ##### Licensing      
 The icons are free to use and modify as you wish under the MIT License.

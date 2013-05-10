@@ -1,0 +1,13 @@
+/****SVG fallback script. Requires jQuery and Modernizr.js****/
+
+<script src="jquery.js"></script>
+<script src="modernizr.js"></script>
+
+/****Replace SVG w/ PNG on browsers *cough* IE *cough* that dont support SVG****/
+<script>
+	if(!Modernizr.svg) {
+	    $('img[src*="svg"]').attr('src', function() {
+	        return $(this).attr('src').replace('.svg', '.png');
+	    });
+	}
+</script> 
