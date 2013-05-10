@@ -12,6 +12,7 @@ A set of SVG minimal social and tech company icons. SVG is an ideal format for c
 ##### Fallback Support SVG
 
 A script is included for browsers that do not support SVG *cough* IE 6-8 *cough*. It replaces the SVG graphics with PNG Img  versions of the files. Requires jQuery and Modernizr to use. 
+    
     <script>
 	if(!Modernizr.svg) {
 	    $('img[src*="svg"]').attr('src', function() {
